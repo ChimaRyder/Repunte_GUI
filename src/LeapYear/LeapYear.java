@@ -39,9 +39,9 @@ public class LeapYear extends JFrame{
         LeapYear ly = new LeapYear();
 
         ly.setContentPane(ly.panel1);
-        ly.setSize(1280, 720);
+        ly.setSize(800, 500);
         ly.setDefaultCloseOperation(EXIT_ON_CLOSE);
         ly.setVisible(true);
-        ly.setTitle("Test");
+        ly.setTitle("Leap Year Checker");
     }
 }
