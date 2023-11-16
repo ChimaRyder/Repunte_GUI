@@ -69,17 +69,6 @@
           <text value="2nd Number"/>
         </properties>
       </component>
-      <component id="dc52c" class="javax.swing.JTextField" binding="lblResult">
-        <constraints>
-          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
-            <preferred-size width="150" height="-1"/>
-          </grid>
-        </constraints>
-        <properties>
-          <editable value="false"/>
-          <font name="Calibri" size="16"/>
-        </properties>
-      </component>
       <component id="2f79f" class="javax.swing.JLabel">
         <constraints>
           <grid row="0" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="2" fill="0" indent="0" use-parent-layout="false"/>
@@ -87,6 +76,27 @@
         <properties>
           <font name="Calibri" size="16"/>
           <text value="Result"/>
+        </properties>
+      </component>
+      <hspacer id="3cf08">
+        <constraints>
+          <grid row="1" column="8" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <hspacer id="f1bd5">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+      </hspacer>
+      <component id="dc52c" class="javax.swing.JTextField" binding="lblResult">
+        <constraints>
+          <grid row="1" column="7" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="0" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <font name="Calibri" size="16"/>
         </properties>
       </component>
     </children>
