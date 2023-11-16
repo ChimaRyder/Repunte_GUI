@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5750d5a8-0ebe-4db5-9a68-c99e28479788" name="Changes" comment="Added GUI Form for LeapYear">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" afterDir="false" />
+    <list default="true" id="5750d5a8-0ebe-4db5-9a68-c99e28479788" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "182"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +51,28 @@
       <option name="presentableId" value="Default" />
       <updated>1700120016139</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added GUI Form for LeapYear">
+      <created>1700122392954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122392954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added GUI Form for LeapYear">
+      <created>1700122461847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122461847</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added GUI Form for LeapYear">
+      <created>1700122576553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122576553</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
